@@ -16,7 +16,7 @@ const defaultProps = {
 }
 const data = [
   {
-    id: 1,
+    id: '',
     label: 'Level one 1',
     children: [
       {
